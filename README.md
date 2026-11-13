@@ -131,7 +131,7 @@
 
 <h2>THE PLAYER RECORD</h2><p>Progress, one commit at a time.</p>
 <table>
-<tr align="center"><td><h3>248</h3><sub>contributions · last year</sub></td><td><h3>53</h3><sub>active days</sub></td><td><h3>18</h3><sub>best day</sub></td><td><h3>5</h3><sub>current streak</sub></td><td><h3>6</h3><sub>longest streak</sub></td></tr>
+<tr align="center"><td><h3>250</h3><sub>contributions · last year</sub></td><td><h3>54</h3><sub>active days</sub></td><td><h3>18</h3><sub>best day</sub></td><td><h3>6</h3><sub>current streak</sub></td><td><h3>6</h3><sub>longest streak</sub></td></tr>
 </table>
 
 <p><i>Every square is a small step forward. Keep showing up.</i></p>
